@@ -6,10 +6,7 @@
 .lightPurple{
     background-color: rgb(209,196,233);
 }
-.footer
-{
-    margin-top:30px;
-}
+
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
@@ -17,4 +14,21 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
 }
