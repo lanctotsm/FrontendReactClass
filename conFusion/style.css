@@ -1,0 +1,20 @@
+.jumbotron 
+{
+    background-color:blueviolet !important;
+    color: white !important
+}
+.lightPurple{
+    background-color: rgb(209,196,233);
+}
+.footer
+{
+    margin-top:30px;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
