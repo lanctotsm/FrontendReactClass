@@ -12,6 +12,14 @@ body{
     z-index:0;
 }
 
+.bg-gold{
+    background-color:gold
+}
+.btn-gold{
+    color: black;
+    background-color: gold;
+    border-color: gold;
+}
 .navbar-dark {
      background-color: #512DA8;
 }
